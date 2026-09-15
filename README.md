@@ -8,3 +8,5 @@ Alteração feita na branch conflito
 Estou apredendo Git intermediario
 Segunda alteração
 nova alteração no projeto
+Segunda alteração para testar diff
+teste teste teste
